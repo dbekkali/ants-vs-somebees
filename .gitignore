@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ok_storage/
+ok
+tests/
+proj03.ok
+.DS_Store
