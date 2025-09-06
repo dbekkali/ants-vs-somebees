@@ -8,3 +8,11 @@ python3 gui.py
 python3 gui.py -d easy
 
 
+
+## Screenshots
+
+Gameplay screen:
+![Gameplay 1](docs/screenshot1.png)
+
+Ants vs. SomeBees in action:
+![Gameplay 2](docs/screenshot2.png)
